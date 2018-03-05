@@ -9,7 +9,7 @@
 
 		v0.2
 		* Added: "edit_user_link" function
-		* Added: "get_excerpt_by_id" function
+		* Added: "get_excerpt" function
 
 		v0.1
 		* Initial release
